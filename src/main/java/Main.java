@@ -5,5 +5,6 @@ public class Main {
         System.out.println("sideBranch zmiany");
         System.out.println("Master przed zmiana na nowym branchu");
         System.out.println("zmiany po wczesniejszym commicie na masterze");
+        System.out.println("Nie ogarniam tego xDDD");
     }
 }
